@@ -1,6 +1,7 @@
 # 💫 About Me:
-Experienced Front End developer with 3+ years of experience collaborating with teams in the e-commerce and tourism industries to design and develop user interfaces for websites and mobile applications. Proven record of providing project support, problem-solving, and effective communication with Back-End and Design teams.
-
+React Native Developer with 2+ years of experience in the software development field. Experienced in designing and developing
+mobile applications using React Native, JavaScript, and Redux. Successfully released 4+ applications into Stores. Skilled at working
+with cross-functional teams, problem-solving, and maintaining high standards of software quality.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salarmirzaeie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salarmirzaeie) 
