@@ -1,7 +1,5 @@
 # 💫 About Me:
-React Native Developer with 2+ years of experience in the software development field. Experienced in designing and developing
-mobile applications using React Native, JavaScript, and Redux. Successfully released 4+ applications into Stores. Skilled at working
-with cross-functional teams, problem-solving, and maintaining high standards of software quality.
+Proactive and detail-oriented React frontend developer with 3+ years of experience in building user-centric interfaces. Collaborated seamlessly with UX Designers and backend developers to create responsive and performant web applications. Recognized for problem-solving skills and delivering exceptional user experiences.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salarmirzaeie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salarmirzaeie) 
