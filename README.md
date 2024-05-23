@@ -1,5 +1,19 @@
 # 💫 About Me:
-Proactive and detail-oriented React frontend developer with 3+ years of experience in building user-centric interfaces. Collaborated seamlessly with UX Designers and backend developers to create responsive and performant web applications. Recognized for problem-solving skills and delivering exceptional user experiences.
+As a React Native Developer with over 3 years of hands-on experience in JavaScript, I have adeptly crafted interfaces for Android and iOS mobile applications, including online food ordering platforms, the tourism industry, financial systems, and delivery apps. Proficient in Agile methodologies, I've collaborated with teams ranging from 10 to 30 members, leading the re-architecture of projects to slash bug rates by 20% and promote seamless collaboration among development teams in my previous role.
+
+Some of the most important responsibilities :
+
+1- Build and maintain cross-platform mobile applications using React Native.
+2- Write clean, maintainable, and reusable code.
+3-Ensure the application's performance, quality, and responsiveness.
+4-Implement new features as per the project requirements and specifications.
+
+
+Some of the most important achievements :
+
+1- Implemented Stripe NFC into a React Native APK, enabling contactless payments, adopted by 300+ shops, enhancing transaction speed and safety.
+2- Optimized driver app with geolocation tracking, turn-by-turn navigation, and real-time traffic updates, boosting driver efficiency by 20% and reducing delivery times by 15%.
+3- Utilized React Native Reanimated and React Native Gesture Handler to execute intricate animations and gestures, resulting in a 20% increase in app engagement and delivering a seamless user experience.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salarmirzaeie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salarmirzaeie) 
