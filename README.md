@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a React Native Developer with over 3 years of hands-on experience in JavaScript, I have adeptly crafted interfaces for Android and iOS mobile applications, including online food ordering platforms, the tourism industry, financial systems, and delivery apps. Proficient in Agile methodologies, I've collaborated with teams ranging from 10 to 30 members, leading the re-architecture of projects to slash bug rates by 20% and promote seamless collaboration among development teams in my previous role.
+As a React Native Developer with over 6 years of hands-on experience in JavaScript, I have adeptly crafted interfaces for Android and iOS mobile applications, including online food ordering platforms, the tourism industry, financial systems, and delivery apps. Proficient in Agile methodologies, I've collaborated with teams ranging from 10 to 30 members, leading the re-architecture of projects to slash bug rates by 20% and promote seamless collaboration among development teams in my previous role.
 
 Some of the most important responsibilities :
 
