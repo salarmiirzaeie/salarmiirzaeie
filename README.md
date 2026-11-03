@@ -16,8 +16,8 @@ The Next.js backend for Janaram: about 95 API routes (OTP auth, content, appoint
 `Next.js 15` `TypeScript` `MongoDB` `JWT` `S3` `Firebase Admin` `Vitest`
 
 ### More
-- [featureBased-cleanArchitecture-MVVM-ReactNative](https://github.com/salarmiirzaeie/featureBased-cleanArchitecture-MVVM-ReactNative): feature-based Expo starter with Redux Toolkit, typed `Result` and error classes, login and signup flows.
-- [web3-wallet](https://github.com/salarmiirzaeie/web3-wallet): Expo demo of a mobile wallet (WalletConnect, ethers.js, Sepolia testnet).
+- [featureBased-cleanArchitecture-MVVM-ReactNative](https://github.com/salarmiirzaeie/featureBased-cleanArchitecture-MVVM-ReactNative): reference Expo app showing feature folders, Clean Architecture layers (domain / data / presentation) and MVVM ViewModels, with a fully tested auth feature and a `Result`-based error model.
+- [web3-wallet](https://github.com/salarmiirzaeie/web3-wallet): watch-only Ethereum wallet viewer: EIP-55 address validation and live ETH and ERC-20 balances on Sepolia with ethers.js, tested ViewModel.
 
 ## Experience in short
 
