@@ -3,8 +3,6 @@
 **Senior React Native Engineer**, 8+ years building and shipping iOS and Android apps.
 TypeScript, Expo, Redux Toolkit, Stripe, Firebase.
 
-Based in Tabriz, Iran. **Open to relocation**: Germany, Netherlands, UK, Canada, Nordics, Switzerland, UAE.
-
 [LinkedIn](https://www.linkedin.com/in/salarmirzaeie/)
 
 ## Selected projects
